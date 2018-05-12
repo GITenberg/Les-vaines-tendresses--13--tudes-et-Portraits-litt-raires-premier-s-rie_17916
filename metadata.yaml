@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7695
     wikipedia: http://fr.wikipedia.org/wiki/Sully_Prudhomme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17916#Les-vaines-tendresses--13--tudes-et-Portraits-litt-raires-premier-s-rie
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2006-03-04'
 gutenberg_type: Text
